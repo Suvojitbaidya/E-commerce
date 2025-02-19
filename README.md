@@ -14,10 +14,6 @@ Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, 
 - User Profile Management
 - Admin Dashboard for Product and Category Management
 
-## Deployment
-
-The application has been successfully deployed and can be accessed at [Live Demo](https://drab-gold-narwhal-gown.cyclic.cloud/).
-
 ## Technologies Used
 
 - Frontend: React, Vite
@@ -29,34 +25,6 @@ The application has been successfully deployed and can be accessed at [Live Demo
 - Routing: React Router
 - Authentication: JWT (JSON Web Tokens)
 - Deployment: Cyclic
-
-## Main Repo
-
-```
-git clone https://github.com/alphadev97/ecommerce-mern-project
-```
-
-## Deployed Repo
-
-```
-git clone https://github.com/alphadev97/production-ecommerce-mern.git
-```
-
-## .env Variables
-
-```
-PORT =
-DEV_MODE =
-MONGO_URL =
-JWT_SECRET =
-BRAINTREE_MERCHANT_ID =
-BRAINTREE_PUBLIC_KEY =
-BRAINTREE_PRIVATE_KEY =
-```
-
-## Contributing
-
-Contributions are welcome! Please create a pull request or open an issue if you encounter any bugs or have suggestions for improvements.
 
 ## License
 
