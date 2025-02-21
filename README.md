@@ -26,6 +26,3 @@ Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, 
 - Authentication: JWT (JSON Web Tokens)
 - Deployment: Cyclic
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
